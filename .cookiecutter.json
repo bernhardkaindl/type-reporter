@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/home/bkaindl/git",
+  "_repo_dir": "/home/bkaindl/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Bernhard Kaindl",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "contact@bernhard.kaindl.dev",
+  "friendly_name": "Type Reporter",
+  "github_user": "xenserver-next",
+  "license": "GPL-3.0",
+  "package_name": "type_reporter",
+  "project_name": "type-reporter",
+  "version": "1.0.0"
+}
